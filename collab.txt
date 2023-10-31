@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+ petits changements
+ bon on est la quoi, on gère
+=======
+groupe 1
+groupe 2
+>>>>>>> a98cebbebe51b47b7fe2972d92f1f238c4c12608
